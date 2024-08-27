@@ -39,7 +39,7 @@ Welcome to our food delivery website, a clone of popular platforms like Swiggy a
 ```bash
 tree /L 1
 $ Clone the repository:
-   /*git clone
+   /*git clone https://github.com/james-jamshed/Namste-React.git
 
 $ Navigate to the project directory:
    cd Namaste React
