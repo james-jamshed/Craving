@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Welcome to our food delivery website, a clone of popular platforms like Swiggy and Zomato. This project is designed to offer a seamless and enjoyable experience for users looking to discover new restaurants, place orders. We're committed to providing a user-friendly interface.
+Welcome to our food delivery website, a clone of popular platforms like Swiggy and Zomato. This project is designed to offer a seamless and enjoyable experience for users looking to discover new restaurants, place orders. We're committed to providing a user-friendly interface for our users.
 
 ## Features
 
