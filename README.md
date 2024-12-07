@@ -20,7 +20,7 @@ Welcome to our food delivery website, a clone of popular platforms like Swiggy a
 
 ## Features
 
-- **User Authentication**: Secure registration and login, with profile management.
+- **User Authentication**: Secure registration and login, with profile management show.
 - **Restaurant Listing**: Explore a vast selection of restaurants, categorized by cuisine, location, and more.
 - **Menu Browsing**: Detailed menus with descriptions, prices, and images.
   <!-- - **Order Placement**: Customize your orders with various options and add-ons. -->
