@@ -60,4 +60,4 @@ Instructions on how to use your project.
 
 ## Project Status
 
-This project is currently in active development. I'm actively working on adding new features and improving existing ones. Feel free to reach out if you have any suggestions or contributions!
+This project is currently in active development. I'm actively working on adding new features and improving existing ones. Feel free to reach out if you have any suggestions or contributions....!
